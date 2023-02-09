@@ -6,22 +6,4 @@
   </h1>
 </div>
 
----
 
-
-### :woman_technologist: Current Stack :
-
-Frontend Stack:
-
-- HTML    
-- CSS
-- JavaScript
-- ReactJS
-- Tailwind CSS
-
-
-Design Stack:
-
-- Figma    
-- Adobe Illusteator
-- Adobe Indesign
