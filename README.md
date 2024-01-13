@@ -7,8 +7,8 @@
 
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=wordpress,javascript,typescript,react,html,css,figma,tailwind,c#" />
-    <img src="https://skillicons.dev/icons?i=nodejs,express,sqlite" /><br>
+    <img src="https://skillicons.dev/icons?i=wordpress,javascript,typescript,react,html,css,figma,tailwind,cs" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,sqlite,aws" /><br>
 </div>
 
  <hr/>
